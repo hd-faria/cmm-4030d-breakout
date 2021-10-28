@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name CMM-4030D-261-I2S-TR)(type Legacy)(uri /home/henrique/Data_Storage/PlayGround/kicad/CMM-4030D-breakout/CMM-4030D-261-I2S-TR-lib/CMM-4030D-261-I2S-TR.lib)(options "")(descr ""))
+  (lib (name cmm-4030d-breakout-rescue)(type Legacy)(uri ${KIPRJMOD}/cmm-4030d-breakout-rescue.lib)(options "")(descr ""))
+)

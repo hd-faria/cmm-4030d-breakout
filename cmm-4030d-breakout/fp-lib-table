@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name CMM-4030D-261-I2S-TR)(type KiCad)(uri /home/henrique/Data_Storage/PlayGround/kicad/CMM-4030D-breakout/CMM-4030D-261-I2S-TR-lib/CMM-4030D-261-I2S-TR.pretty)(options "")(descr CMM-4030D-261-I2S-TR))
+)
