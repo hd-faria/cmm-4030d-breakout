@@ -1,6 +1,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/kicad,linux,windows,macos,osx,c++,c,python,visualstudiocode,platformio
 # Edit at https://www.toptal.com/developers/gitignore?templates=kicad,linux,windows,macos,osx,c++,c,python,visualstudiocode,platformio
 
+./cmm-4030d-breakout/panelization/
 ### C ###
 # Prerequisites
 *.d
